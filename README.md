@@ -1,4 +1,4 @@
-#Hello everyone, and welcome to my first ever project, ==a recipes website!==
+Hello everyone, and welcome to my first ever project, a recipes website!
 
 This project is an assignment from the TOP's (The Odin Project) curriculum to culminate with the beginner html section. To learn more about TOP's curriculum, [click here](https://www.theodinproject.com/about).
 
